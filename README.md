@@ -5,9 +5,17 @@ This project is about the prediction of keratomileusis parameters. With  corneal
 
 <img src="demo.bmp" alt="demo" style="zoom:50%;" />
 
-​                                                                                           figure 1: corneal topography 
+​                                             figure 1: corneal topography 
 
 > Note: Our project uses real data from hospitals. The dataset is protected from public disclosure by us to avoid patient privacy breaches.
+
+### Structure
+
+The main structure of our project is based on VGG-16, as shown in figure 2
+
+<img src="Structure.png" alt="Structure" style="zoom: 67%;" />
+
+​                                                                                     figure 2: model structure                
 
 ### Environment
 
